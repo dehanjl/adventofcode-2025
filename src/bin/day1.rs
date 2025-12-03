@@ -31,7 +31,7 @@ fn part2(input: &str) {
         }
     }
 
-    println!("Day 1 Part 1: {}", count);
+    println!("Day 1 Part 2: {}", count);
 }
 
 fn main() {
